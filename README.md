@@ -10,3 +10,9 @@ tools - uitlity scripts to upload, zip, update code in aws lambda.
 data - temporary direcoty to hold data files.
 tests - test functions to test aws lambda.
 ```
+
+
+```bash
+lambda function url: https://lexl6ptb3h.execute-api.us-west-2.amazonaws.com/default/steel_eye_data_extraction
+s3 file url: https://s3-us-west-2.amazonaws.com/steel-eye-prepare-json/tmp/output.json
+```

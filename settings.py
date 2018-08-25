@@ -1,0 +1,5 @@
+import os
+
+FILE_URL = os.getenv("FILE_URL", "https://www.iso20022.org/sites/default/files/ISO10383_MIC/ISO10383_MIC.xls")
+AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID", "AKIAI2GWZR6VK5AX5DTA")
+AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY', "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")
